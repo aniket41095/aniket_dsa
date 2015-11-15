@@ -1,0 +1,47 @@
+
+NAME: saurah dange	HOUSE NUMBER: 123	LANDMARK: sancheti
+ORDER: 
+cold coffee	QTY:4	 MONEY:250
+TOTAL AMOUNT IS 1000
+ ---------------------------------------------
+NAME: rohit dodke	HOUSE NUMBER: i215	LANDMARK: pune
+ORDER: 
+manchurion rice	QTY:2	 MONEY:60
+cold coffee	QTY:2	 MONEY:25
+TOTAL AMOUNT IS 170
+ ---------------------------------------------
+NAME: shubham dfsdf	HOUSE NUMBER: fsdsf	LANDMARK: fer
+ORDER: 
+manchurion rice	QTY:6	 MONEY:60
+cold coffee	QTY:4	 MONEY:25
+veg phulav	QTY:5	 MONEY:50
+TOTAL AMOUNT IS 710
+ ---------------------------------------------
+NAME: as asd	HOUSE NUMBER: dfdgd	LANDMARK: gfhrt
+ORDER: 
+manchurion rice	QTY:9	 MONEY:60
+pav bhaji	QTY:7	 MONEY:50
+cold coffee	QTY:9	 MONEY:25
+TOTAL AMOUNT IS 1115
+ ---------------------------------------------
+NAME: s k	HOUSE NUMBER: kk	LANDMARK: kk
+ORDER: 
+masala papad	QTY:5	 MONEY:20
+TOTAL AMOUNT IS 100
+ ---------------------------------------------
+NAME: s k	HOUSE NUMBER: 12	LANDMARK: 12
+ORDER: 
+masala papad	QTY:2	 MONEY:20
+TOTAL AMOUNT IS 40
+ ---------------------------------------------
+NAME: Aniket Thorat	HOUSE NUMBER: 1234	LANDMARK: Sancheti
+ORDER: 
+lassi	QTY:2	 MONEY:20
+TOTAL AMOUNT IS 40
+ ---------------------------------------------
+NAME: Aniket Thorat	HOUSE NUMBER: 1234	LANDMARK: Sancheti
+ORDER: 
+cold coffee	QTY:4	 MONEY:30
+pav bhaji	QTY:1	 MONEY:50
+TOTAL AMOUNT IS 170
+ ---------------------------------------------

@@ -1,0 +1,5 @@
+cc -c *.c
+
+cc *.o -o project
+
+./project

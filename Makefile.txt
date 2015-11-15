@@ -1,0 +1,16 @@
+project: init.o mainprog.o minit.o other.o search.o	
+	cc -c *.c
+
+	cc *.o -o project
+
+init.o: init.c string.h errno.h hotels.h
+	cc -Wall -c init.c
+mainprog.o: mainprog.c string.h limits.h hotels.h menu.h
+	cc -Wall -c mainprog.c
+minit.o: minit.c string.h errno.h menu.h
+	cc -Wall -c minit.c
+other.o: other.c  hotels.h menu.h string.h
+	cc -Wall -c other.c
+search.o: search.c string.h hotels.h
+	cc -Wall -c search.c
+
